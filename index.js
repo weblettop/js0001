@@ -21,3 +21,4 @@ daysOfWeek.forEach((day, index) => {
     console.log(`${index + 1}: ${day}`);
   }
 });
+///////////////
