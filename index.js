@@ -13,7 +13,7 @@ for (let i = 0; i < daysOfWeek.length; i++) {
   console.log(`${i + 1}: ${daysOfWeek[i]}`);
 }
 
-///
+/////////////2025
 console.log("Парні дні тижня:");
 
 daysOfWeek.forEach((day, index) => {
