@@ -22,3 +22,5 @@ daysOfWeek.forEach((day, index) => {
   }
 });
 ///////////////
+
+// console.log
